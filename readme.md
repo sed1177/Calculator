@@ -1,4 +1,4 @@
-# StreetFighter project
+# Calculator project
 
 This project is a small calculator with multiple functions such as add, multiply, divide, subtract, and clear!
 
@@ -16,7 +16,7 @@ You don't have to include this section but interviewers *love* that you can not 
 
 ## Lessons Learned:
 
-I learned how to run javascript code in HTML strings, and turn the output into a number. 
+I learned how to run javascript code in HTML strings, and turn the output into a number via the eval function. 
 
 ## Image of Project:
 
